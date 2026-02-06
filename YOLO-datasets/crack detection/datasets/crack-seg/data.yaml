@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/YOLO-datasets/crack detection/datasets/crack-seg/images/train
+val: /content/drive/MyDrive/YOLO-datasets/crack detection/datasets/crack-seg/images/val
+test: /content/drive/MyDrive/YOLO-datasets/crack detection/datasets/crack-seg/images/test
+
+nc: 1
+names: ['crack']
